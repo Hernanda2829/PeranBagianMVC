@@ -14,4 +14,4 @@ dan `Penawaran.xaml.cs` untuk menampilkan barang yang ditawarkan yang
 jika barang tersebut diklik maka akan ditambahkan ke list dan ditampilkan di `MainWindow.xaml.cs`
 
 ## 4. Class Diagram
-
+![class Diagram](https://github.com/Hernanda2829/PeranBagianMVC/blob/master/ClassDiagram1.png)
